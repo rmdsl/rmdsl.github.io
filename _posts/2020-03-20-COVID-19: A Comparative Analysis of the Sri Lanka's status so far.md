@@ -69,3 +69,5 @@ Finally, let's have a look at the case when confirmd case count is greater than 
 When the count is larger than 10, Italy is having a way bigger growth than the rest! And Sri Lanka hasn't picked up that much. This might be providing relief for Sri Lankans that got panicked after seeing the image posted by GMOA. But, many factors might account to this growth and there is not enough knowledge to comment that a certain country would not exhibit a such growth like Italy when hitting a particular threshold! Given the exponential nature of the growth, it's certainly a good idea stay at home quarantined!
 
 The code to generate the plot is available as a github gist [in this link](https://gist.github.com/rmdsl/8d17fefdad0a46e702d95320b561a3f8).
+
+{% include disqus.html %}
