@@ -53,7 +53,7 @@ As shown in Fig 3, Italy hasn't taken off yet. The story changes drastically if 
 
 **Fig. 4:** Data for the countries: `'Sri Lanka', 'Italy', 'Iran', 'Spain', 'Germany', 'US', and 'France'` Left: Overall Confirmed Count since passing the count of 4, Right: Log(Overall Confirmed Count) Over Time since passing the count of 4.
 
-Fig. 4 shows a completely different picture to that of Fig. 3 and this suggests that the growth pattern should be observed with respect to a previous minimum threshold. This also provides scary image on how the growth pattern would be for some countries when they've hit a certain threshold for the Confirmed Count.
+Fig. 4 shows a completely different picture to that of Fig. 3 and this suggests that the growth pattern should be observed with respect to a previous minimum threshold. This also provides a scary image on how the growth pattern would be for some countries when they've hit a certain threshold for the Confirmed Count.
 Again, this is not a good speculation, let's leave that to the epidemiologists to comment on.
 
 ## First 10 days in Sri Lanka and some other countries, since passing the total count of 10
