@@ -1,5 +1,5 @@
 ---
-title: "A Comparative Analysis of the Sri Lanka's status so far"
+title: "COVID-19: A Comparative Analysis of the Sri Lanka's status so far"
 ---
 
 ---
