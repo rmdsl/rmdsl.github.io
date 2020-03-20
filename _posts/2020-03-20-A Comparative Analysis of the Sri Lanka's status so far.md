@@ -15,7 +15,7 @@ The Government Medical Officers' Association has recently [tweeted](https://twit
 
 ![overall confirmed count](https://drive.google.com/uc?export=view&id=1-8R5BvHnTwn4uYDcQ1vSBqBCKkO6-oj3)
 
-Fig. 1: Data for the countries: `"Sri Lanka", "India", "Pakistan", "Italy", "China", "S. Korea", and "Singapore"` Left: Overall Confirmed Count Over Time, Right: Log(Overall Confirmed Count) Over Time
+**Fig. 1:** Data for the countries: `"Sri Lanka", "India", "Pakistan", "Italy", "China", "S. Korea", and "Singapore"` Left: Overall Confirmed Count Over Time, Right: Log(Overall Confirmed Count) Over Time
 
 China is at the top, Italy is growing faster. If you pay attention to the Italy's curve (logarithm), you can notice that Italy has had a value below 10 betweeen 2/1/20 to 2/21/20 and after these 20 day period it is growing rapidly.
 
@@ -34,7 +34,7 @@ Some Asian nations that handle the situation well (China, South Korea, and Singa
 
 ![first_45_days_'Italy', 'Iran', 'Spain', 'Germany', 'US', 'France'_italy-3_other-3.gif](https://drive.google.com/uc?export=view&id=1-9tvA8q9lzROOqoYJXQ2cRFzpNzSsX6K)
 
-Fig. 2: Data for the countries: `'Italy', 'Iran', 'Spain', 'Germany', 'US', and 'France'` Left: Overall Confirmed Count since passing the count of 3, Right: Log(Overall Confirmed Count) Over Time since passing the count of 3.
+**Fig. 2:** Data for the countries: `'Italy', 'Iran', 'Spain', 'Germany', 'US', and 'France'` Left: Overall Confirmed Count since passing the count of 3, Right: Log(Overall Confirmed Count) Over Time since passing the count of 3.
 
 ## First 14 days in Sri Lanka and some other countries, since passing the total count of 3
 
@@ -43,13 +43,13 @@ If you look at the plot, it shows that Sri Lanka is showing a behavior that is a
 
 ![first_14_days_'Sri Lanka', 'Italy', 'Iran', 'Spain', 'Germany', 'US', 'France'_italy-3_other-3](https://drive.google.com/uc?export=view&id=1-O40lrdC5xLDiW7_SMhDLWS1CU9efeDE)
 
-Fig. 3: Data for the countries: `'Sri Lanka', 'Italy', 'Iran', 'Spain', 'Germany', 'US', and 'France'` Left: Overall Confirmed Count since passing the count of 3, Right: Log(Overall Confirmed Count) Over Time since passing the count of 3.
+**Fig. 3:** Data for the countries: `'Sri Lanka', 'Italy', 'Iran', 'Spain', 'Germany', 'US', and 'France'` Left: Overall Confirmed Count since passing the count of 3, Right: Log(Overall Confirmed Count) Over Time since passing the count of 3.
 
 As shown in Fig 3, Italy hasn't taken off yet. The story changes drastically if you've looked at the pattern after Italy hitting 4 confirmed cases.
 
 ![first_14_days_'Sri Lanka', 'Italy', 'Iran', 'Spain', 'Germany', 'US', 'France'_italy-4_other-4](https://drive.google.com/uc?export=view&id=1-Oaecl2QaBojZW47rGOIUDD2bwdhIbVf)
 
-Fig. 4: Data for the countries: `'Sri Lanka', 'Italy', 'Iran', 'Spain', 'Germany', 'US', and 'France'` Left: Overall Confirmed Count since passing the count of 4, Right: Log(Overall Confirmed Count) Over Time since passing the count of 4.
+**Fig. 4:** Data for the countries: `'Sri Lanka', 'Italy', 'Iran', 'Spain', 'Germany', 'US', and 'France'` Left: Overall Confirmed Count since passing the count of 4, Right: Log(Overall Confirmed Count) Over Time since passing the count of 4.
 
 Fig. 4 shows a completely different picture to that of Fig. 3 and this suggests that the growth pattern should be observed with respect to a previous minimum threshold. This also provides scary image on how the growth pattern would be for some countries when they've hit a certain threshold for the Confirmed Count.
 Again, this is not a good speculation, let's leave the epidemiologists to comment on that.
@@ -61,7 +61,7 @@ Finally, let's have a look at the case when confirmd case count is greater than 
 ![first_10_days_'Sri Lanka', 'India', 'Pakistan', 'Italy', 'Spain', 'Singapore'_italy-10_other-10](https://drive.google.com/uc?export=view&id=1-OoSPjRe1kX02bvwc044TOw9isMNSVj1)
 
 
-Fig. 5: Data for the countries: `'Sri Lanka', 'India', 'Pakistan', 'Italy', 'Spain', 'Singapore'` Left: Overall Confirmed Count since passing the count of 10, Right: Log(Overall Confirmed Count) Over Time since passing the count of 10.
+**Fig. 5:** Data for the countries: `'Sri Lanka', 'India', 'Pakistan', 'Italy', 'Spain', 'Singapore'` Left: Overall Confirmed Count since passing the count of 10, Right: Log(Overall Confirmed Count) Over Time since passing the count of 10.
 
 When the count is larger than 10, Italy is having a way bigger growth than the rest! This might be a ray of relief for Sri Lankans that got panicked after seeing the image posted by GMOA. But, many factors might account to this growth and there is not enough knowledge to comment that a certain country would exhibit a growth larger than that when hitting a particular threshold! Given the exponential nature of the growth, it's certainly a good idea stay at home quarantined!
 
