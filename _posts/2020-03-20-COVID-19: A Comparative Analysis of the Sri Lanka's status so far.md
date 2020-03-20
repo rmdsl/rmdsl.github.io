@@ -70,7 +70,4 @@ When the count is larger than 10, Italy is having a way bigger growth than the r
 
 The code to generate the plot is available as a github gist [in this link](https://gist.github.com/rmdsl/8d17fefdad0a46e702d95320b561a3f8).
 
-{% if page.comments %}
-{% include disqus.html %}
-{% endif %}
 
