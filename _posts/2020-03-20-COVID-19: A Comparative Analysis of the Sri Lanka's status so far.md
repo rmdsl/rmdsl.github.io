@@ -4,6 +4,8 @@ title: "COVID-19: A Comparative Analysis of the Sri Lanka's status so far"
 
 ---
 
+Corona Virus has shaken the world. People are gathering in [Facebook groups to be responsible citizens and fight against the virus](https://www.facebook.com/groups/1104689606534855/)!
+
 The Government Medical Officers' Association has recently [tweeted](https://twitter.com/GMOAMU/status/1240598713652764672) with an implication that we are in a worst state than Italy. They have added an image that shows a comparison of the COVID-19 Confirmed Counts on the first 14 days between in Sri Lanka and Italy. It's unclear how GMOA has obtained and prepared that data so that they can be comparable. Since they do not provide details into how they've prepared the data, we'll have a look at the [data from a Johns Hopkins University's GitHub repository](https://github.com/CSSEGISandData/COVID-19/blob/master/csse_covid_19_data/csse_covid_19_time_series/time_series_19-covid-Confirmed.csv) ourselves.
 
 ![Tweet By GMOA](https://drive.google.com/uc?export=view&id=1Lkb5Dbma3ElYy3WfrG3L0Q5HbFDy9jAm)
@@ -52,7 +54,7 @@ As shown in Fig 3, Italy hasn't taken off yet. The story changes drastically if 
 **Fig. 4:** Data for the countries: `'Sri Lanka', 'Italy', 'Iran', 'Spain', 'Germany', 'US', and 'France'` Left: Overall Confirmed Count since passing the count of 4, Right: Log(Overall Confirmed Count) Over Time since passing the count of 4.
 
 Fig. 4 shows a completely different picture to that of Fig. 3 and this suggests that the growth pattern should be observed with respect to a previous minimum threshold. This also provides scary image on how the growth pattern would be for some countries when they've hit a certain threshold for the Confirmed Count.
-Again, this is not a good speculation, let's leave the epidemiologists to comment on that.
+Again, this is not a good speculation, let's leave that to the epidemiologists to comment on.
 
 ## First 10 days in Sri Lanka and some other countries, since passing the total count of 10
 
@@ -66,21 +68,3 @@ Finally, let's have a look at the case when confirmd case count is greater than 
 When the count is larger than 10, Italy is having a way bigger growth than the rest! This might be a ray of relief for Sri Lankans that got panicked after seeing the image posted by GMOA. But, many factors might account to this growth and there is not enough knowledge to comment that a certain country would exhibit a growth larger than that when hitting a particular threshold! Given the exponential nature of the growth, it's certainly a good idea stay at home quarantined!
 
 The code to generate the plot is available as a github gist [in this link](https://gist.github.com/rmdsl/8d17fefdad0a46e702d95320b561a3f8).
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
