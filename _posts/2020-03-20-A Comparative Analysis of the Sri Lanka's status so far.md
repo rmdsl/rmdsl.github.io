@@ -9,7 +9,7 @@ The Government Medical Officers' Association has recently [tweeted](https://twit
 ![Tweet By GMOA](https://drive.google.com/uc?export=view&id=1Lkb5Dbma3ElYy3WfrG3L0Q5HbFDy9jAm)
 
 
-**Note:** *This is by no means a challenge the claim made by the GMOA. They have well qualified epidemiologists and they know way better than a person just analyzing the data. The goal here is to add a different dimension to the analysis.*
+**Note:** *This is by no means a challenge to the claim made by the GMOA. They have well qualified epidemiologists and they know way better than a person just analyzing the data. The goal here is to add a different dimension to the analysis.*
 
 ## Overall Growth
 
