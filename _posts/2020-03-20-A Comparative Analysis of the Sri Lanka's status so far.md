@@ -11,7 +11,7 @@ The Government Medical Officers' Association has recently [tweeted](https://twit
 
 **Note:** *This is by no means a challenge the claim made by the GMOA. They have well qualified epidemiologists and they know way better than a person just analyzing the data. The goal here is to add a different dimension to the analysis.*
 
-# Overall Growth
+## Overall Growth
 
 ![overall confirmed count](https://drive.google.com/uc?export=view&id=1-8R5BvHnTwn4uYDcQ1vSBqBCKkO6-oj3)
 
@@ -54,7 +54,7 @@ Fig. 4: Data for the countries: `'Sri Lanka', 'Italy', 'Iran', 'Spain', 'Germany
 Fig. 4 shows a completely different picture to that of Fig. 3 and this suggests that the growth pattern should be observed with respect to a previous minimum threshold. This also provides scary image on how the growth pattern would be for some countries when they've hit a certain threshold for the Confirmed Count.
 Again, this is not a good speculation, let's leave the epidemiologists to comment on that.
 
-First 10 days in Sri Lanka and some other countries, since passing the total count of 10
+## First 10 days in Sri Lanka and some other countries, since passing the total count of 10
 
 Finally, let's have a look at the case when confirmd case count is greater than 10.
 
