@@ -2,8 +2,6 @@
 title: "A Comparative Analysis of the Sri Lanka's status so far"
 ---
 
-**2020-03-20**
-
 ---
 
 The Government Medical Officers' Association has recently [tweeted](https://twitter.com/GMOAMU/status/1240598713652764672) with an implication that we are in a worst state than Italy. They have added an image that shows a comparison of the COVID-19 Confirmed Counts on the first 14 days between in Sri Lanka and Italy. It's unclear how GMOA has obtained and prepared that data so that they can be comparable. Since they do not provide details into how they've prepared the data, we'll have a look at the [data from a Johns Hopkins University's GitHub repository](https://github.com/CSSEGISandData/COVID-19/blob/master/csse_covid_19_data/csse_covid_19_time_series/time_series_19-covid-Confirmed.csv) ourselves.
